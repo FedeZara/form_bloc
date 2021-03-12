@@ -8,3 +8,5 @@ environment:
 dependencies:
   form_bloc:
     path: ../
+
+publish_to: none
